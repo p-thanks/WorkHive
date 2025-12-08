@@ -1,6 +1,6 @@
 <!--  EMP O W E R - Animated README  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=3B82F6&center=true&vCenter=true&width=650&lines=✨+WELCOME+TO+EMPOWER+✨;A+Modern+Employee+Management+System;React+%2B+Tailwind+%2B+SpringBoot+%2B+MySQL;Fast.+Secure.+Responsive." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=3B82F6&center=true&vCenter=true&width=650&lines=✨+WELCOME+TO+WorkHive+✨;A+Modern+Employee+Management+System;React+%2B+Tailwind+%2B+SpringBoot+%2B+MySQL;Fast.+Secure.+Responsive." />
 </p>
 
 <h1 align="center">🚀 EMP O W E R — Employee Management System</h1>
@@ -20,7 +20,7 @@
 # 🔴 **LIVE DEMO**
 
 <p align="center">
-  <a href="https://empower-demo.vercel.app/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/🚀 LIVE DEMO Available-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
