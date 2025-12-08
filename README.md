@@ -26,14 +26,14 @@
 </p>
 
 <p align="center">
-  <i>Click above to explore the live, fully responsive EMP O W E R demo!</i>
+  <i>Click above to explore the live, fully responsive WorkHive demo!</i>
 </p>
 
 ---
 
 # 🌟 Overview
 
-**Empower** is a sleek, animated, and scalable **Employee Management System** featuring:  
+**WorkHive** is a sleek, animated, and scalable **Employee Management System** featuring:  
 ✨ Role-based login  
 ✨ Admin & Employee dashboards  
 ✨ Project + Finance modules  
