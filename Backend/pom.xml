@@ -11,8 +11,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>ems</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ems</name>
-	<description>Demo project for Spring Boot</description>
+	<name>WorkHive</name>
+	<description>WorkHive project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
