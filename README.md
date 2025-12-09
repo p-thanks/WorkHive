@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=3B82F6&center=true&vCenter=true&width=650&lines=✨+WELCOME+TO+WorkHive+✨;A+Modern+Employee+Management+System;React+%2B+Tailwind+%2B+SpringBoot+%2B+MySQL;Fast.+Secure.+Responsive." />
 </p>
 
-<h1 align="center">🚀 EMP O W E R — Employee Management System</h1>
+<h1 align="center">🚀 WorkHive — Employee Management System</h1>
 
 <div align="center">
 
