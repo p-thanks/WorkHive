@@ -7,11 +7,11 @@
 
 <div align="center">
 
-[![Frontend - React](https://img.shields.io/badge/Frontend-Vite%20React-FFD700?style=for-the-badge&logo=react&logoColor=black)]()
-[![Tailwind](https://img.shields.io/badge/Styling-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
-[![SpringBoot](https://img.shields.io/badge/Backend-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/Database-MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)]()
-![API](https://img.shields.io/badge/API-JPA%20REST-orange?style=for-the-badge)
+[![React]]()
+[![Tailwind]]()
+[![SpringBoot]]()
+[![MySQL]]()
+![API]
 
 </div>
 
